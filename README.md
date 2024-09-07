@@ -1,2 +1,2 @@
 # DataMining
-Application de techniques d’apprentissage supervis´ees et non supervis´ees pour la d´etection de l’adult´eration du miel et ´evaluation.
+Application de techniques d’apprentissage supervisées et non supervisées pour la détection de l’adultération du miel et évaluation.
